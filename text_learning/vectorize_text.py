@@ -86,4 +86,4 @@ vectorizer.fit_transform(word_data)
 print len(vectorizer.get_feature_names())
 
 vectorizer.get_feature_names()[34597]
-    
+
